@@ -1,4 +1,4 @@
-# voitheia
+#  voitheia
 A text-based virtual assistant for macOS.
 ## Syntax
 ### Send a message
