@@ -9,4 +9,4 @@ Tell `[name|number]` that `[message]`
 Open `[app name]`
 ### Open a website
 Open `[website]`
-<br /><br />For those of you wondering, voítheia means "help" in Greek.
+<hr /><br />For those of you wondering, voítheia means "help" in Greek.
